@@ -38,5 +38,3 @@ To start an interactive RStudio session on the CWRU HPC with minimal resources (
 10. Click the New menu (top-right) and selected "Python 3". 
 
 To see a screen video of this sequence, go to https://youtu.be/8j67NdWnmEg.
-
-test
