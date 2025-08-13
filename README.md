@@ -12,7 +12,7 @@ To start an interactive RStudio session on the CWRU HPC with minimal resources (
 
 1. Go to the CWRU HPC OnDemand portal: https://ondemand.case.edu/pun/sys/dashboard/
 2. Select Interactive Apps from the menu and then choose RStudio Server (highest version).
-3. Enter the Slurm account for accesing the HPC.
+3. Enter the Slurm account for accessing the HPC.
 4. Select "cpu nodes".
 5. Set the session to 1 hour (later on, for more complex or longer sessions, it may be neccesary to set this to a longer duration). Note that the session will automatically end if exceeded the scheduled duration. 
 6. Select the core to minimum of 1 core. 
